@@ -1,0 +1,4 @@
+reportlab==3.6.12
+openai>=1.68.2
+python-dotenv==1.0.0
+fpdf==1.7.2
