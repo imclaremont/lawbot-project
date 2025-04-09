@@ -12,6 +12,6 @@
 
 - [질문 분류 → 법령 검색 → 해석 → 응답] Agentic 구조
   
-- Human-in-the-loop 흐름 반영
+- Human-in-the-loop(HITL) 흐름 반영
   
 - 최종 답변을 PDF 보고서로 자동 저장
